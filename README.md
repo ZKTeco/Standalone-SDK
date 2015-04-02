@@ -1,0 +1,2 @@
+# Standalone-SDK
+Standalone SDK is one middle which can work out a professional desktop HR/Payroll/Attendance software. It is running within ZKTeco various time attendance units, access control terminals for almost 15 years.With this rock steady level SDK architecture, you can build any time related software you want. The further benefit is that you do not need to take care of the hardware terminals. It just works fine with all ZKTeco devices. 
